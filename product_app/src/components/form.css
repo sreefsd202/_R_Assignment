@@ -1,0 +1,16 @@
+.form{
+
+    /* height: 40%; */
+    /* background-image: url(https://img.freepik.com/free-vector/elegant-abstract-gold-background-with-shiny-elements_23-2148827897.jpg?w=2000); */
+    margin: 10%;
+    width: 35%;
+    /* border: 1px solid gray; */
+    padding: 10px;
+    margin-left: 28%;
+
+}
+body{
+    background-image: url(https://img.freepik.com/premium-vector/hand-painted-watercolor-abstract-background_889452-16382.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
